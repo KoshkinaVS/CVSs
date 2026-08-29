@@ -1,0 +1,500 @@
+[
+  {
+    "track_id": "AL101979",
+    "points_inside": 0,
+    "total_points": 13,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL121979",
+    "points_inside": 0,
+    "total_points": 13,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL151979",
+    "points_inside": 2,
+    "total_points": 39,
+    "fraction_outside": 94.87179487179486
+  },
+  {
+    "track_id": "AL021980",
+    "points_inside": 0,
+    "total_points": 17,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL111980",
+    "points_inside": 0,
+    "total_points": 12,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL131980",
+    "points_inside": 3,
+    "total_points": 23,
+    "fraction_outside": 86.95652173913044
+  },
+  {
+    "track_id": "AL151980",
+    "points_inside": 0,
+    "total_points": 9,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL041981",
+    "points_inside": 0,
+    "total_points": 11,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL051981",
+    "points_inside": 0,
+    "total_points": 7,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL081981",
+    "points_inside": 0,
+    "total_points": 7,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL121981",
+    "points_inside": 0,
+    "total_points": 12,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL051982",
+    "points_inside": 2,
+    "total_points": 16,
+    "fraction_outside": 87.5
+  },
+  {
+    "track_id": "AL031983",
+    "points_inside": 2,
+    "total_points": 25,
+    "fraction_outside": 92.0
+  },
+  {
+    "track_id": "AL021984",
+    "points_inside": 0,
+    "total_points": 8,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL091984",
+    "points_inside": 0,
+    "total_points": 8,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL111984",
+    "points_inside": 0,
+    "total_points": 7,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL041986",
+    "points_inside": 0,
+    "total_points": 7,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL071986",
+    "points_inside": 0,
+    "total_points": 13,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL041988",
+    "points_inside": 0,
+    "total_points": 33,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL011989",
+    "points_inside": 0,
+    "total_points": 7,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL021989",
+    "points_inside": 0,
+    "total_points": 29,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL041989",
+    "points_inside": 0,
+    "total_points": 16,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL141989",
+    "points_inside": 0,
+    "total_points": 20,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL051990",
+    "points_inside": 2,
+    "total_points": 25,
+    "fraction_outside": 92.0
+  },
+  {
+    "track_id": "AL021991",
+    "points_inside": 0,
+    "total_points": 6,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL021993",
+    "points_inside": 0,
+    "total_points": 15,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL081993",
+    "points_inside": 0,
+    "total_points": 30,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL051994",
+    "points_inside": 0,
+    "total_points": 9,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL081994",
+    "points_inside": 0,
+    "total_points": 10,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL041995",
+    "points_inside": 2,
+    "total_points": 22,
+    "fraction_outside": 90.9090909090909
+  },
+  {
+    "track_id": "AL061995",
+    "points_inside": 0,
+    "total_points": 9,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL081995",
+    "points_inside": 0,
+    "total_points": 11,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL191995",
+    "points_inside": 2,
+    "total_points": 56,
+    "fraction_outside": 96.42857142857143
+  },
+  {
+    "track_id": "AL041996",
+    "points_inside": 3,
+    "total_points": 25,
+    "fraction_outside": 88.0
+  },
+  {
+    "track_id": "AL111996",
+    "points_inside": 0,
+    "total_points": 7,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL031998",
+    "points_inside": 0,
+    "total_points": 13,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL061998",
+    "points_inside": 0,
+    "total_points": 21,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL081998",
+    "points_inside": 2,
+    "total_points": 15,
+    "fraction_outside": 86.66666666666667
+  },
+  {
+    "track_id": "AL021999",
+    "points_inside": 0,
+    "total_points": 4,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL031999",
+    "points_inside": 0,
+    "total_points": 26,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL071999",
+    "points_inside": 0,
+    "total_points": 8,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL111999",
+    "points_inside": 0,
+    "total_points": 10,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL151999",
+    "points_inside": 0,
+    "total_points": 16,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL012000",
+    "points_inside": 0,
+    "total_points": 4,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL052000",
+    "points_inside": 0,
+    "total_points": 9,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL092000",
+    "points_inside": 0,
+    "total_points": 6,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL152000",
+    "points_inside": 0,
+    "total_points": 35,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL092001",
+    "points_inside": 0,
+    "total_points": 4,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL062002",
+    "points_inside": 0,
+    "total_points": 23,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL082003",
+    "points_inside": 2,
+    "total_points": 11,
+    "fraction_outside": 81.81818181818183
+  },
+  {
+    "track_id": "AL112003",
+    "points_inside": 0,
+    "total_points": 13,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL172003",
+    "points_inside": 0,
+    "total_points": 42,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL142004",
+    "points_inside": 2,
+    "total_points": 13,
+    "fraction_outside": 84.61538461538461
+  },
+  {
+    "track_id": "AL022005",
+    "points_inside": 0,
+    "total_points": 7,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL072005",
+    "points_inside": 0,
+    "total_points": 9,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL112005",
+    "points_inside": 0,
+    "total_points": 6,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL202005",
+    "points_inside": 0,
+    "total_points": 17,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL272005",
+    "points_inside": 0,
+    "total_points": 18,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL052007",
+    "points_inside": 0,
+    "total_points": 21,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL092007",
+    "points_inside": 2,
+    "total_points": 11,
+    "fraction_outside": 81.81818181818183
+  },
+  {
+    "track_id": "AL132007",
+    "points_inside": 0,
+    "total_points": 14,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL012008",
+    "points_inside": 0,
+    "total_points": 10,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL042008",
+    "points_inside": 0,
+    "total_points": 31,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL052008",
+    "points_inside": 3,
+    "total_points": 14,
+    "fraction_outside": 78.57142857142857
+  },
+  {
+    "track_id": "AL132008",
+    "points_inside": 0,
+    "total_points": 8,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL162008",
+    "points_inside": 0,
+    "total_points": 8,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL012010",
+    "points_inside": 1,
+    "total_points": 32,
+    "fraction_outside": 96.875
+  },
+  {
+    "track_id": "AL022010",
+    "points_inside": 0,
+    "total_points": 13,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL102010",
+    "points_inside": 2,
+    "total_points": 23,
+    "fraction_outside": 91.30434782608695
+  },
+  {
+    "track_id": "AL012011",
+    "points_inside": 0,
+    "total_points": 13,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL042011",
+    "points_inside": 0,
+    "total_points": 14,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL082011",
+    "points_inside": 0,
+    "total_points": 17,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL152011",
+    "points_inside": 0,
+    "total_points": 23,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL022013",
+    "points_inside": 0,
+    "total_points": 23,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL062013",
+    "points_inside": 0,
+    "total_points": 7,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL082013",
+    "points_inside": 0,
+    "total_points": 4,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL102013",
+    "points_inside": 0,
+    "total_points": 22,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL122013",
+    "points_inside": 0,
+    "total_points": 14,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL052014",
+    "points_inside": 0,
+    "total_points": 13,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL092014",
+    "points_inside": 2,
+    "total_points": 37,
+    "fraction_outside": 94.5945945945946
+  },
+  {
+    "track_id": "AL042016",
+    "points_inside": 0,
+    "total_points": 12,
+    "fraction_outside": 100.0
+  },
+  {
+    "track_id": "AL072017",
+    "points_inside": 1,
+    "total_points": 18,
+    "fraction_outside": 94.44444444444444
+  },
+  {
+    "track_id": "AL132017",
+    "points_inside": 0,
+    "total_points": 18,
+    "fraction_outside": 100.0
+  }
+]

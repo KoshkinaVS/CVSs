@@ -1,0 +1,9 @@
+*
+!*/
+!*.py
+!*.json
+!.gitignore
+article_pics/
+__pycache__/
+.ipynb_checkpoints/
+*.egg-info/

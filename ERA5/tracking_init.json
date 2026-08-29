@@ -1,0 +1,10 @@
+{
+	"data_type": "ERA5",
+    "eps": 2,
+    "min_samples": 4,
+    "CS_points_th": 10,
+    "crit": "R2D",
+    "th": 0,
+    "x_unit": "longitude",
+    "y_unit": "latitude"
+}

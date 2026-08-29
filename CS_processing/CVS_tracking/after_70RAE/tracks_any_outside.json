@@ -1,0 +1,7910 @@
+[
+  {
+    "track_id": "AL041979",
+    "total_points": 29,
+    "points_inside": 20,
+    "points_outside": 9,
+    "fraction_outside": 31.03448275862069,
+    "lat_range": [
+      22.0,
+      39.0
+    ],
+    "lon_range": [
+      -96.0,
+      -75.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "inside_indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "track_id": "AL061979",
+    "total_points": 57,
+    "points_inside": 33,
+    "points_outside": 24,
+    "fraction_outside": 42.10526315789473,
+    "lat_range": [
+      12.5,
+      39.0
+    ],
+    "lon_range": [
+      -96.6,
+      -46.3
+    ],
+    "outside_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "track_id": "AL101979",
+    "total_points": 13,
+    "points_inside": 0,
+    "points_outside": 13,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      18.0,
+      24.9
+    ],
+    "lon_range": [
+      -99.0,
+      -94.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL121979",
+    "total_points": 13,
+    "points_inside": 0,
+    "points_outside": 13,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      25.5,
+      29.6
+    ],
+    "lon_range": [
+      -95.8,
+      -89.1
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL151979",
+    "total_points": 39,
+    "points_inside": 2,
+    "points_outside": 37,
+    "fraction_outside": 94.87179487179486,
+    "lat_range": [
+      20.2,
+      26.4
+    ],
+    "lon_range": [
+      -95.7,
+      -86.7
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "inside_indices": [
+      37,
+      38
+    ]
+  },
+  {
+    "track_id": "AL171979",
+    "total_points": 33,
+    "points_inside": 16,
+    "points_outside": 17,
+    "fraction_outside": 51.515151515151516,
+    "lat_range": [
+      16.9,
+      21.2
+    ],
+    "lon_range": [
+      -88.2,
+      -81.2
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "inside_indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "track_id": "AL191979",
+    "total_points": 21,
+    "points_inside": 14,
+    "points_outside": 7,
+    "fraction_outside": 33.33333333333333,
+    "lat_range": [
+      12.0,
+      18.0
+    ],
+    "lon_range": [
+      -83.8,
+      -77.0
+    ],
+    "outside_indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "track_id": "AL021980",
+    "total_points": 17,
+    "points_inside": 0,
+    "points_outside": 17,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      25.0,
+      30.5
+    ],
+    "lon_range": [
+      -95.7,
+      -90.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL041980",
+    "total_points": 46,
+    "points_inside": 28,
+    "points_outside": 18,
+    "fraction_outside": 39.130434782608695,
+    "lat_range": [
+      10.7,
+      28.9
+    ],
+    "lon_range": [
+      -102.9,
+      -30.0
+    ],
+    "outside_indices": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ]
+  },
+  {
+    "track_id": "AL111980",
+    "total_points": 12,
+    "points_inside": 0,
+    "points_outside": 12,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      28.3,
+      29.4
+    ],
+    "lon_range": [
+      -100.0,
+      -90.6
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL131980",
+    "total_points": 23,
+    "points_inside": 3,
+    "points_outside": 20,
+    "fraction_outside": 86.95652173913044,
+    "lat_range": [
+      14.6,
+      19.3
+    ],
+    "lon_range": [
+      -96.0,
+      -77.2
+    ],
+    "outside_indices": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "track_id": "AL151980",
+    "total_points": 9,
+    "points_inside": 0,
+    "points_outside": 9,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      16.2,
+      16.5
+    ],
+    "lon_range": [
+      -87.8,
+      -85.2
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL161980",
+    "total_points": 35,
+    "points_inside": 4,
+    "points_outside": 31,
+    "fraction_outside": 88.57142857142857,
+    "lat_range": [
+      13.6,
+      26.3
+    ],
+    "lon_range": [
+      -95.2,
+      -82.6
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "inside_indices": [
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "track_id": "AL171980",
+    "total_points": 25,
+    "points_inside": 16,
+    "points_outside": 9,
+    "fraction_outside": 36.0,
+    "lat_range": [
+      13.0,
+      30.0
+    ],
+    "lon_range": [
+      -83.9,
+      -80.0
+    ],
+    "outside_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "inside_indices": [
+      0,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "track_id": "AL021981",
+    "total_points": 10,
+    "points_inside": 9,
+    "points_outside": 1,
+    "fraction_outside": 10.0,
+    "lat_range": [
+      11.0,
+      14.5
+    ],
+    "lon_range": [
+      -80.2,
+      -77.5
+    ],
+    "outside_indices": [
+      9
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "track_id": "AL031981",
+    "total_points": 11,
+    "points_inside": 10,
+    "points_outside": 1,
+    "fraction_outside": 9.090909090909092,
+    "lat_range": [
+      18.4,
+      24.0
+    ],
+    "lon_range": [
+      -83.6,
+      -71.0
+    ],
+    "outside_indices": [
+      0
+    ],
+    "inside_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "track_id": "AL041981",
+    "total_points": 11,
+    "points_inside": 0,
+    "points_outside": 11,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      19.4,
+      30.3
+    ],
+    "lon_range": [
+      -96.4,
+      -94.3
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL051981",
+    "total_points": 7,
+    "points_inside": 0,
+    "points_outside": 7,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      19.5,
+      21.8
+    ],
+    "lon_range": [
+      -98.2,
+      -91.6
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL081981",
+    "total_points": 7,
+    "points_inside": 0,
+    "points_outside": 7,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      23.3,
+      25.4
+    ],
+    "lon_range": [
+      -99.3,
+      -91.8
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL121981",
+    "total_points": 12,
+    "points_inside": 0,
+    "points_outside": 12,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      20.7,
+      26.0
+    ],
+    "lon_range": [
+      -99.0,
+      -92.6
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL171981",
+    "total_points": 11,
+    "points_inside": 6,
+    "points_outside": 5,
+    "fraction_outside": 45.45454545454545,
+    "lat_range": [
+      11.8,
+      13.0
+    ],
+    "lon_range": [
+      -84.0,
+      -73.8
+    ],
+    "outside_indices": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "track_id": "AL011982",
+    "total_points": 17,
+    "points_inside": 14,
+    "points_outside": 3,
+    "fraction_outside": 17.647058823529413,
+    "lat_range": [
+      21.7,
+      25.5
+    ],
+    "lon_range": [
+      -87.1,
+      -82.6
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2
+    ],
+    "inside_indices": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "track_id": "AL051982",
+    "total_points": 16,
+    "points_inside": 2,
+    "points_outside": 14,
+    "fraction_outside": 87.5,
+    "lat_range": [
+      26.2,
+      34.8
+    ],
+    "lon_range": [
+      -94.2,
+      -91.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "inside_indices": [
+      14,
+      15
+    ]
+  },
+  {
+    "track_id": "AL031983",
+    "total_points": 25,
+    "points_inside": 2,
+    "points_outside": 23,
+    "fraction_outside": 92.0,
+    "lat_range": [
+      27.0,
+      41.2
+    ],
+    "lon_range": [
+      -99.4,
+      -90.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "inside_indices": [
+      23,
+      24
+    ]
+  },
+  {
+    "track_id": "AL041983",
+    "total_points": 26,
+    "points_inside": 13,
+    "points_outside": 13,
+    "fraction_outside": 50.0,
+    "lat_range": [
+      25.1,
+      28.1
+    ],
+    "lon_range": [
+      -100.5,
+      -76.0
+    ],
+    "outside_indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "track_id": "AL021984",
+    "total_points": 8,
+    "points_inside": 0,
+    "points_outside": 8,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      20.5,
+      22.7
+    ],
+    "lon_range": [
+      -98.5,
+      -94.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL091984",
+    "total_points": 8,
+    "points_inside": 0,
+    "points_outside": 8,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      21.0,
+      23.2
+    ],
+    "lon_range": [
+      -98.1,
+      -96.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL111984",
+    "total_points": 7,
+    "points_inside": 0,
+    "points_outside": 7,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      20.0,
+      20.7
+    ],
+    "lon_range": [
+      -96.2,
+      -95.7
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL041985",
+    "total_points": 37,
+    "points_inside": 24,
+    "points_outside": 13,
+    "fraction_outside": 35.13513513513514,
+    "lat_range": [
+      18.5,
+      40.4
+    ],
+    "lon_range": [
+      -92.7,
+      -69.4
+    ],
+    "outside_indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ]
+  },
+  {
+    "track_id": "AL051985",
+    "total_points": 33,
+    "points_inside": 29,
+    "points_outside": 4,
+    "fraction_outside": 12.121212121212121,
+    "lat_range": [
+      19.8,
+      38.8
+    ],
+    "lon_range": [
+      -94.0,
+      -74.0
+    ],
+    "outside_indices": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      29,
+      30,
+      31,
+      32
+    ]
+  },
+  {
+    "track_id": "AL121985",
+    "total_points": 29,
+    "points_inside": 6,
+    "points_outside": 23,
+    "fraction_outside": 79.3103448275862,
+    "lat_range": [
+      23.8,
+      36.8
+    ],
+    "lon_range": [
+      -93.0,
+      -86.6
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "inside_indices": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "track_id": "AL141985",
+    "total_points": 10,
+    "points_inside": 5,
+    "points_outside": 5,
+    "fraction_outside": 50.0,
+    "lat_range": [
+      9.5,
+      11.2
+    ],
+    "lon_range": [
+      -81.0,
+      -77.0
+    ],
+    "outside_indices": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "track_id": "AL021986",
+    "total_points": 21,
+    "points_inside": 5,
+    "points_outside": 16,
+    "fraction_outside": 76.19047619047619,
+    "lat_range": [
+      25.6,
+      37.2
+    ],
+    "lon_range": [
+      -94.7,
+      -87.2
+    ],
+    "outside_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "inside_indices": [
+      0,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "track_id": "AL041986",
+    "total_points": 7,
+    "points_inside": 0,
+    "points_outside": 7,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      24.0,
+      28.0
+    ],
+    "lon_range": [
+      -97.8,
+      -92.9
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL071986",
+    "total_points": 13,
+    "points_inside": 0,
+    "points_outside": 13,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      17.6,
+      22.9
+    ],
+    "lon_range": [
+      -99.0,
+      -86.2
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL031987",
+    "total_points": 32,
+    "points_inside": 24,
+    "points_outside": 8,
+    "fraction_outside": 25.0,
+    "lat_range": [
+      26.3,
+      32.3
+    ],
+    "lon_range": [
+      -94.5,
+      -82.3
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "inside_indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ]
+  },
+  {
+    "track_id": "AL081987",
+    "total_points": 12,
+    "points_inside": 10,
+    "points_outside": 2,
+    "fraction_outside": 16.666666666666664,
+    "lat_range": [
+      12.8,
+      14.0
+    ],
+    "lon_range": [
+      -83.9,
+      -63.3
+    ],
+    "outside_indices": [
+      10,
+      11
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "track_id": "AL131987",
+    "total_points": 21,
+    "points_inside": 11,
+    "points_outside": 10,
+    "fraction_outside": 47.61904761904761,
+    "lat_range": [
+      14.1,
+      29.5
+    ],
+    "lon_range": [
+      -84.5,
+      -74.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "inside_indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "track_id": "AL021988",
+    "total_points": 12,
+    "points_inside": 6,
+    "points_outside": 6,
+    "fraction_outside": 50.0,
+    "lat_range": [
+      29.3,
+      31.7
+    ],
+    "lon_range": [
+      -93.2,
+      -89.1
+    ],
+    "outside_indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "track_id": "AL041988",
+    "total_points": 33,
+    "points_inside": 0,
+    "points_outside": 33,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      19.4,
+      24.4
+    ],
+    "lon_range": [
+      -109.3,
+      -91.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL071988",
+    "total_points": 20,
+    "points_inside": 6,
+    "points_outside": 14,
+    "fraction_outside": 70.0,
+    "lat_range": [
+      22.6,
+      33.0
+    ],
+    "lon_range": [
+      -94.5,
+      -89.2
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      17,
+      18,
+      19
+    ],
+    "inside_indices": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "track_id": "AL081988",
+    "total_points": 49,
+    "points_inside": 26,
+    "points_outside": 23,
+    "fraction_outside": 46.93877551020408,
+    "lat_range": [
+      12.0,
+      43.4
+    ],
+    "lon_range": [
+      -103.7,
+      -54.0
+    ],
+    "outside_indices": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "track_id": "AL111988",
+    "total_points": 53,
+    "points_inside": 40,
+    "points_outside": 13,
+    "fraction_outside": 24.528301886792452,
+    "lat_range": [
+      8.9,
+      12.7
+    ],
+    "lon_range": [
+      -86.8,
+      -42.2
+    ],
+    "outside_indices": [
+      39,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      40
+    ]
+  },
+  {
+    "track_id": "AL121988",
+    "total_points": 39,
+    "points_inside": 27,
+    "points_outside": 12,
+    "fraction_outside": 30.76923076923077,
+    "lat_range": [
+      14.9,
+      52.5
+    ],
+    "lon_range": [
+      -87.2,
+      -42.0
+    ],
+    "outside_indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ]
+  },
+  {
+    "track_id": "AL131988",
+    "total_points": 9,
+    "points_inside": 8,
+    "points_outside": 1,
+    "fraction_outside": 11.11111111111111,
+    "lat_range": [
+      20.3,
+      25.0
+    ],
+    "lon_range": [
+      -84.7,
+      -80.0
+    ],
+    "outside_indices": [
+      0
+    ],
+    "inside_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "track_id": "AL161988",
+    "total_points": 16,
+    "points_inside": 14,
+    "points_outside": 2,
+    "fraction_outside": 12.5,
+    "lat_range": [
+      12.5,
+      16.2
+    ],
+    "lon_range": [
+      -85.1,
+      -60.7
+    ],
+    "outside_indices": [
+      14,
+      15
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "track_id": "AL011989",
+    "total_points": 7,
+    "points_inside": 0,
+    "points_outside": 7,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      19.2,
+      20.9
+    ],
+    "lon_range": [
+      -94.3,
+      -93.6
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL021989",
+    "total_points": 29,
+    "points_inside": 0,
+    "points_outside": 29,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      27.0,
+      32.8
+    ],
+    "lon_range": [
+      -96.0,
+      -93.7
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL041989",
+    "total_points": 16,
+    "points_inside": 0,
+    "points_outside": 16,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      22.5,
+      34.5
+    ],
+    "lon_range": [
+      -98.5,
+      -90.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL141989",
+    "total_points": 20,
+    "points_inside": 0,
+    "points_outside": 20,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      19.4,
+      33.8
+    ],
+    "lon_range": [
+      -95.0,
+      -92.4
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL151989",
+    "total_points": 24,
+    "points_inside": 7,
+    "points_outside": 17,
+    "fraction_outside": 70.83333333333334,
+    "lat_range": [
+      16.5,
+      20.8
+    ],
+    "lon_range": [
+      -85.5,
+      -83.1
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "inside_indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "track_id": "AL011990",
+    "total_points": 7,
+    "points_inside": 6,
+    "points_outside": 1,
+    "fraction_outside": 14.285714285714285,
+    "lat_range": [
+      18.8,
+      24.0
+    ],
+    "lon_range": [
+      -84.0,
+      -82.2
+    ],
+    "outside_indices": [
+      0
+    ],
+    "inside_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "track_id": "AL051990",
+    "total_points": 25,
+    "points_inside": 2,
+    "points_outside": 23,
+    "fraction_outside": 92.0,
+    "lat_range": [
+      13.2,
+      22.5
+    ],
+    "lon_range": [
+      -107.0,
+      -79.5
+    ],
+    "outside_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "inside_indices": [
+      0,
+      1
+    ]
+  },
+  {
+    "track_id": "AL021991",
+    "total_points": 6,
+    "points_inside": 0,
+    "points_outside": 6,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      23.3,
+      23.4
+    ],
+    "lon_range": [
+      -98.0,
+      -96.2
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL091991",
+    "total_points": 11,
+    "points_inside": 9,
+    "points_outside": 2,
+    "fraction_outside": 18.181818181818183,
+    "lat_range": [
+      18.9,
+      30.0
+    ],
+    "lon_range": [
+      -85.7,
+      -75.5
+    ],
+    "outside_indices": [
+      0,
+      1
+    ],
+    "inside_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "track_id": "AL041992",
+    "total_points": 52,
+    "points_inside": 46,
+    "points_outside": 6,
+    "fraction_outside": 11.538461538461538,
+    "lat_range": [
+      10.8,
+      35.4
+    ],
+    "lon_range": [
+      -91.7,
+      -35.5
+    ],
+    "outside_indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51
+    ]
+  },
+  {
+    "track_id": "AL021993",
+    "total_points": 15,
+    "points_inside": 0,
+    "points_outside": 15,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      20.5,
+      27.2
+    ],
+    "lon_range": [
+      -98.3,
+      -91.9
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL031993",
+    "total_points": 33,
+    "points_inside": 25,
+    "points_outside": 8,
+    "fraction_outside": 24.242424242424242,
+    "lat_range": [
+      10.0,
+      12.2
+    ],
+    "lon_range": [
+      -86.8,
+      -40.3
+    ],
+    "outside_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "track_id": "AL081993",
+    "total_points": 30,
+    "points_inside": 0,
+    "points_outside": 30,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      10.6,
+      21.3
+    ],
+    "lon_range": [
+      -104.7,
+      -80.7
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL011994",
+    "total_points": 32,
+    "points_inside": 24,
+    "points_outside": 8,
+    "fraction_outside": 25.0,
+    "lat_range": [
+      21.5,
+      33.5
+    ],
+    "lon_range": [
+      -87.5,
+      -83.6
+    ],
+    "outside_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "inside_indices": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ]
+  },
+  {
+    "track_id": "AL051994",
+    "total_points": 9,
+    "points_inside": 0,
+    "points_outside": 9,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      20.5,
+      23.0
+    ],
+    "lon_range": [
+      -99.0,
+      -93.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL081994",
+    "total_points": 10,
+    "points_inside": 0,
+    "points_outside": 10,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      16.0,
+      16.7
+    ],
+    "lon_range": [
+      -89.5,
+      -84.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL101994",
+    "total_points": 7,
+    "points_inside": 5,
+    "points_outside": 2,
+    "fraction_outside": 28.57142857142857,
+    "lat_range": [
+      20.5,
+      24.0
+    ],
+    "lon_range": [
+      -86.0,
+      -85.0
+    ],
+    "outside_indices": [
+      0,
+      1
+    ],
+    "inside_indices": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "track_id": "AL121994",
+    "total_points": 59,
+    "points_inside": 47,
+    "points_outside": 12,
+    "fraction_outside": 20.33898305084746,
+    "lat_range": [
+      11.9,
+      34.1
+    ],
+    "lon_range": [
+      -83.4,
+      -74.2
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "inside_indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ]
+  },
+  {
+    "track_id": "AL011995",
+    "total_points": 35,
+    "points_inside": 29,
+    "points_outside": 6,
+    "fraction_outside": 17.142857142857142,
+    "lat_range": [
+      17.4,
+      65.0
+    ],
+    "lon_range": [
+      -86.3,
+      -52.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "inside_indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  },
+  {
+    "track_id": "AL041995",
+    "total_points": 22,
+    "points_inside": 2,
+    "points_outside": 20,
+    "fraction_outside": 90.9090909090909,
+    "lat_range": [
+      26.1,
+      33.0
+    ],
+    "lon_range": [
+      -98.5,
+      -86.6
+    ],
+    "outside_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "inside_indices": [
+      0,
+      1
+    ]
+  },
+  {
+    "track_id": "AL061995",
+    "total_points": 9,
+    "points_inside": 0,
+    "points_outside": 9,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      20.2,
+      21.8
+    ],
+    "lon_range": [
+      -99.0,
+      -95.2
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL081995",
+    "total_points": 11,
+    "points_inside": 0,
+    "points_outside": 11,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      23.0,
+      23.9
+    ],
+    "lon_range": [
+      -98.2,
+      -94.8
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL171995",
+    "total_points": 39,
+    "points_inside": 11,
+    "points_outside": 28,
+    "fraction_outside": 71.7948717948718,
+    "lat_range": [
+      19.1,
+      44.5
+    ],
+    "lon_range": [
+      -92.3,
+      -76.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "inside_indices": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ]
+  },
+  {
+    "track_id": "AL191995",
+    "total_points": 56,
+    "points_inside": 2,
+    "points_outside": 54,
+    "fraction_outside": 96.42857142857143,
+    "lat_range": [
+      14.0,
+      22.4
+    ],
+    "lon_range": [
+      -96.0,
+      -82.1
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "inside_indices": [
+      7,
+      8
+    ]
+  },
+  {
+    "track_id": "AL031996",
+    "total_points": 18,
+    "points_inside": 12,
+    "points_outside": 6,
+    "fraction_outside": 33.33333333333333,
+    "lat_range": [
+      11.6,
+      13.1
+    ],
+    "lon_range": [
+      -87.9,
+      -62.6
+    ],
+    "outside_indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "track_id": "AL041996",
+    "total_points": 25,
+    "points_inside": 3,
+    "points_outside": 22,
+    "fraction_outside": 88.0,
+    "lat_range": [
+      17.3,
+      21.8
+    ],
+    "lon_range": [
+      -107.3,
+      -80.2
+    ],
+    "outside_indices": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "track_id": "AL101996",
+    "total_points": 47,
+    "points_inside": 36,
+    "points_outside": 11,
+    "fraction_outside": 23.404255319148938,
+    "lat_range": [
+      22.7,
+      63.0
+    ],
+    "lon_range": [
+      -96.2,
+      -15.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "inside_indices": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ]
+  },
+  {
+    "track_id": "AL111996",
+    "total_points": 7,
+    "points_inside": 0,
+    "points_outside": 7,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      15.7,
+      17.3
+    ],
+    "lon_range": [
+      -88.4,
+      -86.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL121996",
+    "total_points": 60,
+    "points_inside": 48,
+    "points_outside": 12,
+    "fraction_outside": 20.0,
+    "lat_range": [
+      12.8,
+      54.5
+    ],
+    "lon_range": [
+      -84.5,
+      1.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "inside_indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ]
+  },
+  {
+    "track_id": "AL131996",
+    "total_points": 54,
+    "points_inside": 50,
+    "points_outside": 4,
+    "fraction_outside": 7.4074074074074066,
+    "lat_range": [
+      10.5,
+      20.1
+    ],
+    "lon_range": [
+      -84.8,
+      -74.5
+    ],
+    "outside_indices": [
+      23,
+      51,
+      52,
+      53
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "track_id": "AL051997",
+    "total_points": 47,
+    "points_inside": 39,
+    "points_outside": 8,
+    "fraction_outside": 17.02127659574468,
+    "lat_range": [
+      27.4,
+      44.0
+    ],
+    "lon_range": [
+      -92.6,
+      -48.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "inside_indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ]
+  },
+  {
+    "track_id": "AL031998",
+    "total_points": 13,
+    "points_inside": 0,
+    "points_outside": 13,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      25.3,
+      29.4
+    ],
+    "lon_range": [
+      -101.2,
+      -92.3
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL051998",
+    "total_points": 33,
+    "points_inside": 25,
+    "points_outside": 8,
+    "fraction_outside": 24.242424242424242,
+    "lat_range": [
+      21.6,
+      52.0
+    ],
+    "lon_range": [
+      -93.8,
+      -25.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "inside_indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ]
+  },
+  {
+    "track_id": "AL061998",
+    "total_points": 21,
+    "points_inside": 0,
+    "points_outside": 21,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      23.5,
+      33.0
+    ],
+    "lon_range": [
+      -97.6,
+      -94.4
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL081998",
+    "total_points": 15,
+    "points_inside": 2,
+    "points_outside": 13,
+    "fraction_outside": 86.66666666666667,
+    "lat_range": [
+      25.7,
+      31.0
+    ],
+    "lon_range": [
+      -92.5,
+      -90.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "inside_indices": [
+      13,
+      14
+    ]
+  },
+  {
+    "track_id": "AL131998",
+    "total_points": 78,
+    "points_inside": 39,
+    "points_outside": 39,
+    "fraction_outside": 50.0,
+    "lat_range": [
+      11.6,
+      63.5
+    ],
+    "lon_range": [
+      -93.7,
+      -5.0
+    ],
+    "outside_indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ]
+  },
+  {
+    "track_id": "AL021999",
+    "total_points": 4,
+    "points_inside": 0,
+    "points_outside": 4,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      20.2,
+      20.6
+    ],
+    "lon_range": [
+      -97.3,
+      -95.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL031999",
+    "total_points": 26,
+    "points_inside": 0,
+    "points_outside": 26,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      19.5,
+      28.0
+    ],
+    "lon_range": [
+      -103.0,
+      -94.4
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL071999",
+    "total_points": 8,
+    "points_inside": 0,
+    "points_outside": 8,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      21.6,
+      25.0
+    ],
+    "lon_range": [
+      -99.0,
+      -96.4
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL101999",
+    "total_points": 14,
+    "points_inside": 11,
+    "points_outside": 3,
+    "fraction_outside": 21.428571428571427,
+    "lat_range": [
+      25.0,
+      27.1
+    ],
+    "lon_range": [
+      -87.8,
+      -78.6
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2
+    ],
+    "inside_indices": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "track_id": "AL111999",
+    "total_points": 10,
+    "points_inside": 0,
+    "points_outside": 10,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      18.9,
+      20.4
+    ],
+    "lon_range": [
+      -96.4,
+      -93.8
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL131999",
+    "total_points": 34,
+    "points_inside": 31,
+    "points_outside": 3,
+    "fraction_outside": 8.823529411764707,
+    "lat_range": [
+      15.9,
+      51.0
+    ],
+    "lon_range": [
+      -83.6,
+      -45.0
+    ],
+    "outside_indices": [
+      1,
+      2,
+      3
+    ],
+    "inside_indices": [
+      0,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "track_id": "AL151999",
+    "total_points": 16,
+    "points_inside": 0,
+    "points_outside": 16,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      11.4,
+      21.2
+    ],
+    "lon_range": [
+      -89.8,
+      -80.9
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL012000",
+    "total_points": 4,
+    "points_inside": 0,
+    "points_outside": 4,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      20.7,
+      21.0
+    ],
+    "lon_range": [
+      -93.5,
+      -92.8
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL052000",
+    "total_points": 9,
+    "points_inside": 0,
+    "points_outside": 9,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      22.5,
+      25.2
+    ],
+    "lon_range": [
+      -99.8,
+      -93.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL092000",
+    "total_points": 6,
+    "points_inside": 0,
+    "points_outside": 6,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      27.5,
+      30.0
+    ],
+    "lon_range": [
+      -94.0,
+      -93.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL112000",
+    "total_points": 29,
+    "points_inside": 20,
+    "points_outside": 9,
+    "fraction_outside": 31.03448275862069,
+    "lat_range": [
+      19.8,
+      43.5
+    ],
+    "lon_range": [
+      -88.7,
+      -63.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "inside_indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "track_id": "AL152000",
+    "total_points": 35,
+    "points_inside": 0,
+    "points_outside": 35,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      16.1,
+      23.8
+    ],
+    "lon_range": [
+      -101.0,
+      -82.9
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL012001",
+    "total_points": 57,
+    "points_inside": 31,
+    "points_outside": 26,
+    "fraction_outside": 45.614035087719294,
+    "lat_range": [
+      27.5,
+      43.5
+    ],
+    "lon_range": [
+      -96.2,
+      -61.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "inside_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "track_id": "AL042001",
+    "total_points": 33,
+    "points_inside": 21,
+    "points_outside": 12,
+    "fraction_outside": 36.36363636363637,
+    "lat_range": [
+      12.3,
+      18.7
+    ],
+    "lon_range": [
+      -92.2,
+      -37.0
+    ],
+    "outside_indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "track_id": "AL092001",
+    "total_points": 4,
+    "points_inside": 0,
+    "points_outside": 4,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      13.4,
+      14.5
+    ],
+    "lon_range": [
+      -85.1,
+      -81.9
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL112001",
+    "total_points": 22,
+    "points_inside": 16,
+    "points_outside": 6,
+    "fraction_outside": 27.27272727272727,
+    "lat_range": [
+      12.3,
+      17.4
+    ],
+    "lon_range": [
+      -91.9,
+      -58.2
+    ],
+    "outside_indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "track_id": "AL152001",
+    "total_points": 35,
+    "points_inside": 13,
+    "points_outside": 22,
+    "fraction_outside": 62.857142857142854,
+    "lat_range": [
+      13.0,
+      28.7
+    ],
+    "lon_range": [
+      -84.3,
+      -66.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "inside_indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  },
+  {
+    "track_id": "AL022002",
+    "total_points": 23,
+    "points_inside": 7,
+    "points_outside": 16,
+    "fraction_outside": 69.56521739130434,
+    "lat_range": [
+      26.9,
+      30.9
+    ],
+    "lon_range": [
+      -97.7,
+      -88.5
+    ],
+    "outside_indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "track_id": "AL062002",
+    "total_points": 23,
+    "points_inside": 0,
+    "points_outside": 23,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      26.5,
+      29.1
+    ],
+    "lon_range": [
+      -101.0,
+      -93.8
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL092002",
+    "total_points": 17,
+    "points_inside": 13,
+    "points_outside": 4,
+    "fraction_outside": 23.52941176470588,
+    "lat_range": [
+      26.3,
+      33.0
+    ],
+    "lon_range": [
+      -89.3,
+      -85.0
+    ],
+    "outside_indices": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "track_id": "AL102002",
+    "total_points": 55,
+    "points_inside": 34,
+    "points_outside": 21,
+    "fraction_outside": 38.18181818181819,
+    "lat_range": [
+      10.0,
+      40.9
+    ],
+    "lon_range": [
+      -90.4,
+      -60.5
+    ],
+    "outside_indices": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ]
+  },
+  {
+    "track_id": "AL132002",
+    "total_points": 57,
+    "points_inside": 47,
+    "points_outside": 10,
+    "fraction_outside": 17.543859649122805,
+    "lat_range": [
+      10.2,
+      35.8
+    ],
+    "lon_range": [
+      -92.4,
+      -44.6
+    ],
+    "outside_indices": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      55,
+      56
+    ]
+  },
+  {
+    "track_id": "AL142002",
+    "total_points": 11,
+    "points_inside": 7,
+    "points_outside": 4,
+    "fraction_outside": 36.36363636363637,
+    "lat_range": [
+      16.9,
+      22.4
+    ],
+    "lon_range": [
+      -83.2,
+      -80.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "inside_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "track_id": "AL032003",
+    "total_points": 21,
+    "points_inside": 9,
+    "points_outside": 12,
+    "fraction_outside": 57.14285714285714,
+    "lat_range": [
+      19.5,
+      37.3
+    ],
+    "lon_range": [
+      -91.5,
+      -79.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "inside_indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "track_id": "AL042003",
+    "total_points": 45,
+    "points_inside": 15,
+    "points_outside": 30,
+    "fraction_outside": 66.66666666666666,
+    "lat_range": [
+      11.1,
+      30.9
+    ],
+    "lon_range": [
+      -107.7,
+      -53.5
+    ],
+    "outside_indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "track_id": "AL082003",
+    "total_points": 11,
+    "points_inside": 2,
+    "points_outside": 9,
+    "fraction_outside": 81.81818181818183,
+    "lat_range": [
+      24.7,
+      26.6
+    ],
+    "lon_range": [
+      -100.3,
+      -83.3
+    ],
+    "outside_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "inside_indices": [
+      0,
+      1
+    ]
+  },
+  {
+    "track_id": "AL112003",
+    "total_points": 13,
+    "points_inside": 0,
+    "points_outside": 13,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      24.3,
+      34.6
+    ],
+    "lon_range": [
+      -96.6,
+      -92.4
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL172003",
+    "total_points": 42,
+    "points_inside": 0,
+    "points_outside": 42,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      15.8,
+      21.4
+    ],
+    "lon_range": [
+      -95.3,
+      -84.7
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL022004",
+    "total_points": 44,
+    "points_inside": 31,
+    "points_outside": 13,
+    "fraction_outside": 29.545454545454547,
+    "lat_range": [
+      12.9,
+      39.0
+    ],
+    "lon_range": [
+      -90.6,
+      -53.6
+    ],
+    "outside_indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ]
+  },
+  {
+    "track_id": "AL092004",
+    "total_points": 94,
+    "points_inside": 81,
+    "points_outside": 13,
+    "fraction_outside": 13.829787234042554,
+    "lat_range": [
+      8.9,
+      38.4
+    ],
+    "lon_range": [
+      -94.2,
+      -27.6
+    ],
+    "outside_indices": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ]
+  },
+  {
+    "track_id": "AL142004",
+    "total_points": 13,
+    "points_inside": 2,
+    "points_outside": 11,
+    "fraction_outside": 84.61538461538461,
+    "lat_range": [
+      24.0,
+      33.6
+    ],
+    "lon_range": [
+      -95.4,
+      -90.9
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "inside_indices": [
+      11,
+      12
+    ]
+  },
+  {
+    "track_id": "AL012005",
+    "total_points": 26,
+    "points_inside": 21,
+    "points_outside": 5,
+    "fraction_outside": 19.230769230769234,
+    "lat_range": [
+      16.9,
+      44.8
+    ],
+    "lon_range": [
+      -88.0,
+      -77.6
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "inside_indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "track_id": "AL022005",
+    "total_points": 7,
+    "points_inside": 0,
+    "points_outside": 7,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      19.7,
+      22.0
+    ],
+    "lon_range": [
+      -98.5,
+      -95.4
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL032005",
+    "total_points": 34,
+    "points_inside": 22,
+    "points_outside": 12,
+    "fraction_outside": 35.294117647058826,
+    "lat_range": [
+      18.3,
+      48.5
+    ],
+    "lon_range": [
+      -90.5,
+      -62.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "inside_indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "track_id": "AL052005",
+    "total_points": 45,
+    "points_inside": 28,
+    "points_outside": 17,
+    "fraction_outside": 37.77777777777778,
+    "lat_range": [
+      10.7,
+      25.0
+    ],
+    "lon_range": [
+      -101.1,
+      -42.4
+    ],
+    "outside_indices": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ]
+  },
+  {
+    "track_id": "AL072005",
+    "total_points": 9,
+    "points_inside": 0,
+    "points_outside": 9,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      19.3,
+      22.5
+    ],
+    "lon_range": [
+      -101.4,
+      -92.9
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL112005",
+    "total_points": 6,
+    "points_inside": 0,
+    "points_outside": 6,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      19.4,
+      19.7
+    ],
+    "lon_range": [
+      -97.7,
+      -94.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL122005",
+    "total_points": 34,
+    "points_inside": 30,
+    "points_outside": 4,
+    "fraction_outside": 11.76470588235294,
+    "lat_range": [
+      23.1,
+      40.1
+    ],
+    "lon_range": [
+      -89.6,
+      -75.1
+    ],
+    "outside_indices": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "track_id": "AL182005",
+    "total_points": 36,
+    "points_inside": 20,
+    "points_outside": 16,
+    "fraction_outside": 44.44444444444444,
+    "lat_range": [
+      21.3,
+      39.5
+    ],
+    "lon_range": [
+      -94.1,
+      -69.9
+    ],
+    "outside_indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      32,
+      33,
+      34,
+      35
+    ]
+  },
+  {
+    "track_id": "AL202005",
+    "total_points": 17,
+    "points_inside": 0,
+    "points_outside": 17,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      16.9,
+      20.5
+    ],
+    "lon_range": [
+      -97.0,
+      -85.6
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL252005",
+    "total_points": 48,
+    "points_inside": 29,
+    "points_outside": 19,
+    "fraction_outside": 39.58333333333333,
+    "lat_range": [
+      15.7,
+      45.5
+    ],
+    "lon_range": [
+      -87.1,
+      -52.0
+    ],
+    "outside_indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ]
+  },
+  {
+    "track_id": "AL272005",
+    "total_points": 18,
+    "points_inside": 0,
+    "points_outside": 18,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      10.4,
+      13.7
+    ],
+    "lon_range": [
+      -84.9,
+      -80.9
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL282005",
+    "total_points": 33,
+    "points_inside": 15,
+    "points_outside": 18,
+    "fraction_outside": 54.54545454545454,
+    "lat_range": [
+      13.2,
+      17.1
+    ],
+    "lon_range": [
+      -85.6,
+      -62.1
+    ],
+    "outside_indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "track_id": "AL012006",
+    "total_points": 38,
+    "points_inside": 30,
+    "points_outside": 8,
+    "fraction_outside": 21.052631578947366,
+    "lat_range": [
+      20.0,
+      57.0
+    ],
+    "lon_range": [
+      -87.8,
+      -3.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "inside_indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ]
+  },
+  {
+    "track_id": "AL022007",
+    "total_points": 24,
+    "points_inside": 17,
+    "points_outside": 7,
+    "fraction_outside": 29.166666666666668,
+    "lat_range": [
+      18.1,
+      47.5
+    ],
+    "lon_range": [
+      -87.0,
+      -68.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "inside_indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "track_id": "AL042007",
+    "total_points": 42,
+    "points_inside": 30,
+    "points_outside": 12,
+    "fraction_outside": 28.57142857142857,
+    "lat_range": [
+      11.8,
+      20.5
+    ],
+    "lon_range": [
+      -99.0,
+      -28.9
+    ],
+    "outside_indices": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "track_id": "AL052007",
+    "total_points": 21,
+    "points_inside": 0,
+    "points_outside": 21,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      23.7,
+      35.9
+    ],
+    "lon_range": [
+      -101.8,
+      -90.7
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL062007",
+    "total_points": 28,
+    "points_inside": 17,
+    "points_outside": 11,
+    "fraction_outside": 39.285714285714285,
+    "lat_range": [
+      11.5,
+      17.7
+    ],
+    "lon_range": [
+      -93.8,
+      -56.6
+    ],
+    "outside_indices": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "track_id": "AL092007",
+    "total_points": 11,
+    "points_inside": 2,
+    "points_outside": 9,
+    "fraction_outside": 81.81818181818183,
+    "lat_range": [
+      27.3,
+      32.7
+    ],
+    "lon_range": [
+      -95.1,
+      -90.2
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "inside_indices": [
+      9,
+      10
+    ]
+  },
+  {
+    "track_id": "AL132007",
+    "total_points": 14,
+    "points_inside": 0,
+    "points_outside": 14,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      20.5,
+      21.8
+    ],
+    "lon_range": [
+      -98.7,
+      -94.4
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL172007",
+    "total_points": 25,
+    "points_inside": 18,
+    "points_outside": 7,
+    "fraction_outside": 28.000000000000004,
+    "lat_range": [
+      18.3,
+      26.3
+    ],
+    "lon_range": [
+      -88.2,
+      -61.8
+    ],
+    "outside_indices": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      24
+    ]
+  },
+  {
+    "track_id": "AL012008",
+    "total_points": 10,
+    "points_inside": 0,
+    "points_outside": 10,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      17.5,
+      18.3
+    ],
+    "lon_range": [
+      -91.1,
+      -87.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL042008",
+    "total_points": 31,
+    "points_inside": 0,
+    "points_outside": 31,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      17.8,
+      32.9
+    ],
+    "lon_range": [
+      -106.7,
+      -83.6
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL052008",
+    "total_points": 14,
+    "points_inside": 3,
+    "points_outside": 11,
+    "fraction_outside": 78.57142857142857,
+    "lat_range": [
+      28.1,
+      32.7
+    ],
+    "lon_range": [
+      -98.7,
+      -87.4
+    ],
+    "outside_indices": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "track_id": "AL072008",
+    "total_points": 50,
+    "points_inside": 37,
+    "points_outside": 13,
+    "fraction_outside": 26.0,
+    "lat_range": [
+      13.5,
+      43.7
+    ],
+    "lon_range": [
+      -94.4,
+      -67.4
+    ],
+    "outside_indices": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ]
+  },
+  {
+    "track_id": "AL092008",
+    "total_points": 62,
+    "points_inside": 50,
+    "points_outside": 12,
+    "fraction_outside": 19.35483870967742,
+    "lat_range": [
+      17.2,
+      47.2
+    ],
+    "lon_range": [
+      -95.3,
+      -37.0
+    ],
+    "outside_indices": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ]
+  },
+  {
+    "track_id": "AL132008",
+    "total_points": 8,
+    "points_inside": 0,
+    "points_outside": 8,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      18.5,
+      19.9
+    ],
+    "lon_range": [
+      -96.9,
+      -91.7
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL162008",
+    "total_points": 8,
+    "points_inside": 0,
+    "points_outside": 8,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      15.3,
+      16.0
+    ],
+    "lon_range": [
+      -85.6,
+      -82.8
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL172008",
+    "total_points": 36,
+    "points_inside": 32,
+    "points_outside": 4,
+    "fraction_outside": 11.11111111111111,
+    "lat_range": [
+      13.7,
+      28.9
+    ],
+    "lon_range": [
+      -85.9,
+      -77.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "inside_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ]
+  },
+  {
+    "track_id": "AL112009",
+    "total_points": 31,
+    "points_inside": 9,
+    "points_outside": 22,
+    "fraction_outside": 70.96774193548387,
+    "lat_range": [
+      11.0,
+      30.8
+    ],
+    "lon_range": [
+      -88.7,
+      -81.3
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "inside_indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "track_id": "AL012010",
+    "total_points": 32,
+    "points_inside": 1,
+    "points_outside": 31,
+    "fraction_outside": 96.875,
+    "lat_range": [
+      15.9,
+      24.3
+    ],
+    "lon_range": [
+      -101.9,
+      -82.0
+    ],
+    "outside_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "inside_indices": [
+      0
+    ]
+  },
+  {
+    "track_id": "AL022010",
+    "total_points": 13,
+    "points_inside": 0,
+    "points_outside": 13,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      21.5,
+      28.1
+    ],
+    "lon_range": [
+      -102.2,
+      -91.1
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL032010",
+    "total_points": 18,
+    "points_inside": 16,
+    "points_outside": 2,
+    "fraction_outside": 11.11111111111111,
+    "lat_range": [
+      21.5,
+      30.1
+    ],
+    "lon_range": [
+      -91.0,
+      -73.8
+    ],
+    "outside_indices": [
+      16,
+      17
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "track_id": "AL102010",
+    "total_points": 23,
+    "points_inside": 2,
+    "points_outside": 21,
+    "fraction_outside": 91.30434782608695,
+    "lat_range": [
+      17.5,
+      37.5
+    ],
+    "lon_range": [
+      -99.5,
+      -95.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "inside_indices": [
+      21,
+      22
+    ]
+  },
+  {
+    "track_id": "AL132010",
+    "total_points": 22,
+    "points_inside": 4,
+    "points_outside": 18,
+    "fraction_outside": 81.81818181818183,
+    "lat_range": [
+      16.3,
+      19.7
+    ],
+    "lon_range": [
+      -97.4,
+      -78.5
+    ],
+    "outside_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "track_id": "AL152010",
+    "total_points": 16,
+    "points_inside": 5,
+    "points_outside": 11,
+    "fraction_outside": 68.75,
+    "lat_range": [
+      13.7,
+      17.5
+    ],
+    "lon_range": [
+      -93.3,
+      -74.8
+    ],
+    "outside_indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "track_id": "AL162010",
+    "total_points": 12,
+    "points_inside": 11,
+    "points_outside": 1,
+    "fraction_outside": 8.333333333333332,
+    "lat_range": [
+      19.4,
+      27.4
+    ],
+    "lon_range": [
+      -84.1,
+      -78.5
+    ],
+    "outside_indices": [
+      0
+    ],
+    "inside_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "track_id": "AL182010",
+    "total_points": 21,
+    "points_inside": 8,
+    "points_outside": 13,
+    "fraction_outside": 61.904761904761905,
+    "lat_range": [
+      13.9,
+      23.0
+    ],
+    "lon_range": [
+      -86.0,
+      -79.1
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "inside_indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "track_id": "AL192010",
+    "total_points": 29,
+    "points_inside": 11,
+    "points_outside": 18,
+    "fraction_outside": 62.06896551724138,
+    "lat_range": [
+      15.8,
+      20.1
+    ],
+    "lon_range": [
+      -92.9,
+      -80.4
+    ],
+    "outside_indices": [
+      0,
+      1,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "inside_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "track_id": "AL012011",
+    "total_points": 13,
+    "points_inside": 0,
+    "points_outside": 13,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      19.9,
+      21.6
+    ],
+    "lon_range": [
+      -98.7,
+      -92.8
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL042011",
+    "total_points": 14,
+    "points_inside": 0,
+    "points_outside": 14,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      21.6,
+      27.8
+    ],
+    "lon_range": [
+      -98.1,
+      -85.7
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL082011",
+    "total_points": 17,
+    "points_inside": 0,
+    "points_outside": 17,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      15.4,
+      18.7
+    ],
+    "lon_range": [
+      -97.2,
+      -82.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL132011",
+    "total_points": 22,
+    "points_inside": 6,
+    "points_outside": 16,
+    "fraction_outside": 72.72727272727273,
+    "lat_range": [
+      26.6,
+      34.9
+    ],
+    "lon_range": [
+      -92.5,
+      -85.1
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "inside_indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ]
+  },
+  {
+    "track_id": "AL152011",
+    "total_points": 23,
+    "points_inside": 0,
+    "points_outside": 23,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      19.7,
+      20.5
+    ],
+    "lon_range": [
+      -97.8,
+      -92.1
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL182011",
+    "total_points": 31,
+    "points_inside": 4,
+    "points_outside": 27,
+    "fraction_outside": 87.09677419354838,
+    "lat_range": [
+      12.7,
+      21.8
+    ],
+    "lon_range": [
+      -87.2,
+      -81.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "inside_indices": [
+      7,
+      8,
+      9,
+      30
+    ]
+  },
+  {
+    "track_id": "AL042012",
+    "total_points": 18,
+    "points_inside": 17,
+    "points_outside": 1,
+    "fraction_outside": 5.555555555555555,
+    "lat_range": [
+      25.5,
+      29.5
+    ],
+    "lon_range": [
+      -87.6,
+      -80.3
+    ],
+    "outside_indices": [
+      0
+    ],
+    "inside_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "track_id": "AL052012",
+    "total_points": 39,
+    "points_inside": 23,
+    "points_outside": 16,
+    "fraction_outside": 41.02564102564102,
+    "lat_range": [
+      11.6,
+      18.8
+    ],
+    "lon_range": [
+      -97.2,
+      -46.7
+    ],
+    "outside_indices": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ]
+  },
+  {
+    "track_id": "AL072012",
+    "total_points": 38,
+    "points_inside": 19,
+    "points_outside": 19,
+    "fraction_outside": 50.0,
+    "lat_range": [
+      13.3,
+      22.7
+    ],
+    "lon_range": [
+      -98.9,
+      -43.0
+    ],
+    "outside_indices": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  {
+    "track_id": "AL092012",
+    "total_points": 51,
+    "points_inside": 40,
+    "points_outside": 11,
+    "fraction_outside": 21.568627450980394,
+    "lat_range": [
+      14.9,
+      38.4
+    ],
+    "lon_range": [
+      -94.1,
+      -44.8
+    ],
+    "outside_indices": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      47,
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "track_id": "AL022013",
+    "total_points": 23,
+    "points_inside": 0,
+    "points_outside": 23,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      12.4,
+      19.6
+    ],
+    "lon_range": [
+      -97.5,
+      -81.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL062013",
+    "total_points": 7,
+    "points_inside": 0,
+    "points_outside": 7,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      18.7,
+      20.5
+    ],
+    "lon_range": [
+      -98.2,
+      -94.2
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL082013",
+    "total_points": 4,
+    "points_inside": 0,
+    "points_outside": 4,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      21.5,
+      22.4
+    ],
+    "lon_range": [
+      -99.0,
+      -97.4
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL102013",
+    "total_points": 22,
+    "points_inside": 0,
+    "points_outside": 22,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      19.1,
+      23.7
+    ],
+    "lon_range": [
+      -99.7,
+      -92.2
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL122013",
+    "total_points": 14,
+    "points_inside": 0,
+    "points_outside": 14,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      21.5,
+      28.1
+    ],
+    "lon_range": [
+      -91.9,
+      -86.8
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL052014",
+    "total_points": 13,
+    "points_inside": 0,
+    "points_outside": 13,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      19.2,
+      22.8
+    ],
+    "lon_range": [
+      -101.0,
+      -92.3
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL092014",
+    "total_points": 37,
+    "points_inside": 2,
+    "points_outside": 35,
+    "fraction_outside": 94.5945945945946,
+    "lat_range": [
+      14.9,
+      19.5
+    ],
+    "lon_range": [
+      -95.3,
+      -81.8
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "inside_indices": [
+      21,
+      22
+    ]
+  },
+  {
+    "track_id": "AL022015",
+    "total_points": 22,
+    "points_inside": 8,
+    "points_outside": 14,
+    "fraction_outside": 63.63636363636363,
+    "lat_range": [
+      27.0,
+      38.9
+    ],
+    "lon_range": [
+      -97.5,
+      -81.3
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "inside_indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ]
+  },
+  {
+    "track_id": "AL032016",
+    "total_points": 15,
+    "points_inside": 11,
+    "points_outside": 4,
+    "fraction_outside": 26.666666666666668,
+    "lat_range": [
+      21.6,
+      43.0
+    ],
+    "lon_range": [
+      -88.0,
+      -58.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "inside_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "track_id": "AL042016",
+    "total_points": 12,
+    "points_inside": 0,
+    "points_outside": 12,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      19.4,
+      21.3
+    ],
+    "lon_range": [
+      -98.7,
+      -91.6
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL052016",
+    "total_points": 20,
+    "points_inside": 4,
+    "points_outside": 16,
+    "fraction_outside": 80.0,
+    "lat_range": [
+      16.0,
+      19.0
+    ],
+    "lon_range": [
+      -97.5,
+      -77.5
+    ],
+    "outside_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "track_id": "AL092016",
+    "total_points": 47,
+    "points_inside": 41,
+    "points_outside": 6,
+    "fraction_outside": 12.76595744680851,
+    "lat_range": [
+      23.4,
+      41.7
+    ],
+    "lon_range": [
+      -88.0,
+      -68.2
+    ],
+    "outside_indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ]
+  },
+  {
+    "track_id": "AL162016",
+    "total_points": 38,
+    "points_inside": 6,
+    "points_outside": 32,
+    "fraction_outside": 84.21052631578947,
+    "lat_range": [
+      9.1,
+      12.5
+    ],
+    "lon_range": [
+      -93.3,
+      -79.1
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "inside_indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  {
+    "track_id": "AL032017",
+    "total_points": 20,
+    "points_inside": 5,
+    "points_outside": 15,
+    "fraction_outside": 75.0,
+    "lat_range": [
+      23.6,
+      38.9
+    ],
+    "lon_range": [
+      -93.8,
+      -78.5
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "inside_indices": [
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "track_id": "AL072017",
+    "total_points": 18,
+    "points_inside": 1,
+    "points_outside": 17,
+    "fraction_outside": 94.44444444444444,
+    "lat_range": [
+      15.5,
+      20.4
+    ],
+    "lon_range": [
+      -98.3,
+      -81.5
+    ],
+    "outside_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "inside_indices": [
+      0
+    ]
+  },
+  {
+    "track_id": "AL092017",
+    "total_points": 74,
+    "points_inside": 32,
+    "points_outside": 42,
+    "fraction_outside": 56.75675675675676,
+    "lat_range": [
+      13.0,
+      38.2
+    ],
+    "lon_range": [
+      -97.6,
+      -45.8
+    ],
+    "outside_indices": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "inside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ]
+  },
+  {
+    "track_id": "AL132017",
+    "total_points": 18,
+    "points_inside": 0,
+    "points_outside": 18,
+    "fraction_outside": 100.0,
+    "lat_range": [
+      20.1,
+      22.4
+    ],
+    "lon_range": [
+      -97.7,
+      -94.6
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "inside_indices": []
+  },
+  {
+    "track_id": "AL162017",
+    "total_points": 32,
+    "points_inside": 14,
+    "points_outside": 18,
+    "fraction_outside": 56.25,
+    "lat_range": [
+      10.7,
+      47.5
+    ],
+    "lon_range": [
+      -89.2,
+      -56.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "inside_indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ]
+  },
+  {
+    "track_id": "AL182017",
+    "total_points": 7,
+    "points_inside": 4,
+    "points_outside": 3,
+    "fraction_outside": 42.857142857142854,
+    "lat_range": [
+      17.5,
+      22.7
+    ],
+    "lon_range": [
+      -84.5,
+      -81.2
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2
+    ],
+    "inside_indices": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "track_id": "AL012018",
+    "total_points": 26,
+    "points_inside": 21,
+    "points_outside": 5,
+    "fraction_outside": 19.230769230769234,
+    "lat_range": [
+      18.7,
+      46.0
+    ],
+    "lon_range": [
+      -87.9,
+      -83.3
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "inside_indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "track_id": "AL142018",
+    "total_points": 38,
+    "points_inside": 30,
+    "points_outside": 8,
+    "fraction_outside": 21.052631578947366,
+    "lat_range": [
+      17.8,
+      48.8
+    ],
+    "lon_range": [
+      -86.9,
+      -10.0
+    ],
+    "outside_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "inside_indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ]
+  }
+]
