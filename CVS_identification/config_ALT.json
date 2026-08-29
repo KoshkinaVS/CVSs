@@ -1,0 +1,18 @@
+{
+    "path_dir": "/storage/thalassa/users/vkoshkina/data",
+    "data_type": "ALT",
+    "dist_m": 13875,
+    "eps": 2,
+    "min_samples": 4,
+    "size_filter": 10,
+    "min_dist": 1,
+    
+    "name_crit": "R2D",
+    "level_name": "depth",
+    "x_name": "longitude",
+    "y_name": "latitude",
+    "time_name": "time",
+
+    "time_unit": "time"
+
+}
