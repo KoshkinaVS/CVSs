@@ -1,0 +1,29 @@
+# Track only code and config, not data/results/figures.
+# Order matters here: ignore everything, then explicitly allow directories
+# to be traversed, then un-ignore the file types we actually want.
+
+# 1) ignore everything by default
+*
+
+# 2) but let git descend into directories to look for exceptions
+!*/
+
+# 3) un-ignore the file types worth version-controlling
+!*.py
+!*.json
+
+# 4) keep the project's own root-level files tracked too
+!.gitignore
+!README.md
+!pyproject.toml
+!.pre-commit-config.yaml
+
+# 5) article_pics is figures, not code — keep it fully out regardless
+#    of the .py/.json exception above
+article_pics/
+
+# 6) standard noise that would otherwise slip in as .py/.json matches
+#    inside these dirs (e.g. Jupyter checkpoint copies, packaging metadata)
+__pycache__/
+.ipynb_checkpoints/
+*.egg-info/
