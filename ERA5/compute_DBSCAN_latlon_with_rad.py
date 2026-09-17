@@ -24,7 +24,7 @@ from func_for_DBSCAN_opt import *
 warnings.filterwarnings("ignore")
 
 # Configuration
-with open('config_ERA5_02-04-25.json', 'r') as file:
+with open('config_ERA5_02-04-10.json', 'r') as file:
     config = json.load(file)
 
 # Parameters
@@ -40,7 +40,7 @@ smooth = True
 sigma = 2
 
 region = 'Arctic'
-region = 'NA'
+# region = 'NA'
 
 
 if smooth:

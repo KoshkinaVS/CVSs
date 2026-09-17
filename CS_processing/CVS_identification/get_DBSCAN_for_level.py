@@ -35,13 +35,13 @@ path_init = f'/storage/thalassa/users/vkoshkina'
 sys.path.insert(3, f'{path_init}/scripts/CS_processing/CVS_identification')
 
 
-months = np.arange(2, 3)
+months = np.arange(1, 13)
 
 data_type = 'GPN'
 rortex_path = f'/storage/thalassa/users/gavr/{data_type}/Coherents/rortex/'
 path_dir_raw = f'/storage/buffer/{data_type}/OUTPUTS/WRF6km/'
 
-year = 2022
+year = 2010
 
 sigma = 0
 
@@ -192,8 +192,10 @@ def extract_date_from_filename(filename):
 
 level = 12
 sigmas = [
-    # 4, 2, 
-    0]
+#     4, 
+    2, 
+#     0
+]
 
 start = time.time()
 

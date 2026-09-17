@@ -1,0 +1,18 @@
+{
+    "path_dir": "/storage/thalassa/users/vkoshkina/data",
+    "data_type": "LoRes",
+    "dist_m": 77824.23,
+    "eps": 1,
+    "min_samples": 4,
+    "size_filter": 10,
+    "min_dist": 1,
+    
+    "name_crit": "R2D",
+    "level_name": "bottom_top",
+    "x_name": "west_east",
+    "y_name": "south_north",
+    "time_name": "Time",
+
+    "time_unit": "XTIME"
+
+}

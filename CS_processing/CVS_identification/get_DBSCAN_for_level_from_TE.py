@@ -34,18 +34,21 @@ from compute_rortex_func import *
 months = np.arange(1, 13)
 
 years = np.arange(1979, 2019)
+years = np.arange(2010, 2011)
+
 
 
 data_type = 'HiRes'
+# data_type = 'LoRes'
+
 level = 12
 
-path_dir_raw = f'/storage/buffer/{data_type}/OUTPUTS/WRF6km/'
 
 
 
 params = ['ue', 've', 'HGT']
 
-with open(f'config_NAAD.json', 'r') as file:
+with open(f'config_NAAD_01-04-10.json', 'r') as file:
     config = json.load(file)
     
 data = config
@@ -161,8 +164,9 @@ def extract_date_from_filename(filename):
 
 level = 12
 sigmas = [
-    # 4,2,
-          0
+    # 4,
+    2,
+#           0
          ]
 
 start = time.time()
